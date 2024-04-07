@@ -2,5 +2,5 @@
 sidebar_position: 3
 ---
 
-# Advanced Projects (Custom Applications, Integrations)
-
+# Advanced Projects 
+(Custom Applications, Integrations)
